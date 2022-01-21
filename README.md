@@ -29,7 +29,7 @@ $ npm run dev
 - Formatter
 
   - [ESLint](https://eslint.org/) ([Plugin](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint))
-  - [Prettier](https://prettier.io/) ([Plugin])(https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - [Prettier](https://prettier.io/) ([Plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode))
 
 - Language
 
